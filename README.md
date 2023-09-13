@@ -94,6 +94,10 @@ Viewchild :
 
 
 
+notes : 
+
+use ngmodel,ngform directive to bind input form value and 
+provide validation as well. for template driven form
 
 
 
